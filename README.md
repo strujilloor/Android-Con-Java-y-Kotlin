@@ -7,7 +7,7 @@ El mejor y más completo curso de Android con Java y Kotlin, desde Cero a Master
 
 ![Template](./screenshots/1.png "Template")
 
-![Template](./screenshots/2.png" Template")
+![Template](./screenshots/2.png "Template")
 
 
 
