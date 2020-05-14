@@ -5,9 +5,9 @@ El mejor y más completo curso de Android con Java y Kotlin, desde Cero a Master
 
 ## Crear Proyecto Nuevo
 
-![Template](./screenshots/1.png"Template")
+![Template](./screenshots/1.png "Template")
 
-![Template](./screenshots/2.png"Template")
+![Template](./screenshots/2.png" Template")
 
 
 
